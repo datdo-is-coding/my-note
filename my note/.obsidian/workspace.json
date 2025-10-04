@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "file": "Computer Networking/Network Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THAO TÁC CHUỘT"
+              "title": "Network Devices"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be5199bdc09a2f48",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "file": "Computer Networking/Network Devices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for THAO TÁC CHUỘT"
+              "title": "Backlinks for Network Devices"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "file": "Computer Networking/Network Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from THAO TÁC CHUỘT"
+              "title": "Outgoing links from Network Devices"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "file": "Computer Networking/Network Devices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of THAO TÁC CHUỘT"
+              "title": "Outline of Network Devices"
             }
           }
         ]
@@ -171,10 +172,15 @@
   },
   "active": "175c45cd04555480",
   "lastOpenFiles": [
+    "Pasted image 20251004164817.png",
+    "Pasted image 20251004164756.png",
+    "Mechanical/Solidworks/THAO TÁC CHUỘT.md",
+    "Computer Networking/Network Devices.md",
+    "Computer Networking",
+    "Untitled",
     "Untitled.md",
-    "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
-    "Mecanical/Solidworks",
-    "Mecanical",
+    "Mechanical/Solidworks",
+    "Mechanical",
     "Welcome.md"
   ]
 }
