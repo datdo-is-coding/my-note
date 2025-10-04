@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "c2eddc6e8c978b2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c0d769e398c540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175c45cd04555480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THAO TÁC CHUỘT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9c41474ae1306af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a06c26ce8367ddb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "747f56de439e84da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27637a1587c57e35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c7ebe802bc4e629",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be5199bdc09a2f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "acdcb3d8d22c3ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d747bfeea8a00213",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for THAO TÁC CHUỘT"
+            }
+          },
+          {
+            "id": "df6badcb884457a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from THAO TÁC CHUỘT"
+            }
+          },
+          {
+            "id": "ef1f1331cd44d972",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "156e8c3c2b7abb67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of THAO TÁC CHUỘT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "175c45cd04555480",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Mecanical/Solidworks/THAO TÁC CHUỘT.md",
+    "Mecanical/Solidworks",
+    "Mecanical",
+    "Welcome.md"
+  ]
+}
