@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS 2/tutorials/Understanding Nodes.md",
+                "file": "Mechanical/Solidworks/LESSON 02 - SKETCH & EXTRUDED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Nodes"
+              "title": "LESSON 02 - SKETCH & EXTRUDED"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,12 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "747f56de439e84da",
+  "active": "175c45cd04555480",
   "lastOpenFiles": [
+    "Mechanical/Solidworks/shortcuts.md",
+    "Mechanical/Solidworks/LESSON 02 - SKETCH & EXTRUDED.md",
+    "Mechanical/Solidworks/LESSON 01 -INTRODUCE.md",
+    "pictures/Pasted image 20251005073440.png",
+    "ROS 2/tutorials/Understanding Nodes.md",
     "ROS 2/tutorials/Configuring environment.md",
     "ROS 2/tutorials/Using turtlesim,ros2, and rqt.md",
     "ROS 2/A set of ROS 2 command.md",
-    "ROS 2/tutorials/Understanding Nodes.md",
     "ROS 2/concepts/Node.md",
     "pictures/Pasted image 20251005105728.png",
     "pictures/Pasted image 20251004164756.png",
@@ -190,7 +194,6 @@
     "ROS 2",
     "github",
     "pictures/Pasted image 20251004164817.png",
-    "Mechanical/Solidworks/THAO TÁC CHUỘT.md",
     "Computer Networking",
     "Mechanical/Solidworks",
     "Mechanical"
