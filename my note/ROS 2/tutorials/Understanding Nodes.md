@@ -1,4 +1,4 @@
-#nodes 
+#nodes #beginner
 ## Background
 The **ROS 2** graph :
 ![[Pasted image 20251005105728.png]]
