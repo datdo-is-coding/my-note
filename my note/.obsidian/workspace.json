@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS 2/tutorials/Understanding Nodes.md",
+                "file": "ROS 2/tutorials/Understanding Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Nodes"
+              "title": "Understanding Topics"
             }
           }
         ]
@@ -171,12 +171,12 @@
   },
   "active": "175c45cd04555480",
   "lastOpenFiles": [
+    "ROS 2/tutorials/Understanding Nodes.md",
+    "ROS 2/tutorials/Understanding Topics.md",
     "Programming Language/C++/C Preprocessors.md",
     "Pasted image 20251009010949.png",
-    "ROS 2/tutorials/Understanding Topics.md",
     "Pasted image 20251008104244.png",
     "Pasted image 20251008104139.png",
-    "ROS 2/tutorials/Understanding Nodes.md",
     "ROS 2/tutorials/Configuring environment.md",
     "ROS 2/tutorials/Using turtlesim,ros2, and rqt.md",
     "Programming Language/C++/HOW TO USE GDB.md",
