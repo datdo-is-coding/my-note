@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS 2/tutorials/Understanding Services.md",
+                "file": "Computer Networking/TYPE OF COMPUTER NETWORKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Services"
+              "title": "TYPE OF COMPUTER NETWORKS"
             }
           }
         ]
@@ -171,10 +171,13 @@
   },
   "active": "175c45cd04555480",
   "lastOpenFiles": [
+    "Computer Networking/BASICS OF COMPUTER NETWORKING.md",
+    "Computer Networking/TYPE OF COMPUTER NETWORKS.md",
+    "Computer Networking/Network Devices.md",
+    "Mechanical/Solidworks/LESSON 02 - SKETCH & EXTRUDED.md",
+    "ROS 2/tutorials/Understanding Services.md",
     "ROS 2/tutorials/Understanding Topics.md",
-    "ROS 2/tutorials/Understanding Services.md",
     "Untitled",
-    "ROS 2/tutorials/Understanding Services.md",
     "ROS 2/tutorials/Understanding Nodes.md",
     "Programming Language/C++/C Preprocessors.md",
     "Pasted image 20251009010949.png",
@@ -193,7 +196,6 @@
     "Programming Language/Untitled.md",
     "Programming Language/C++",
     "Programming Language",
-    "Mechanical/Solidworks/LESSON 02 - SKETCH & EXTRUDED.md",
     "SQL",
     "leetcode",
     "Mechanical/Solidworks/LESSON 01 -INTRODUCE.md",
@@ -205,7 +207,6 @@
     "pictures",
     "Welcome.md",
     "Untitled.md",
-    "Computer Networking/Network Devices.md",
     "github/git command.md",
     "github/git.md",
     "ROS 2/concepts",

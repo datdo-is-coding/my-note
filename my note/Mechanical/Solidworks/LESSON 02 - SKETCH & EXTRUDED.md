@@ -48,3 +48,6 @@ Cách tạo một RECTANGLE:
 - 3 point rectangle
 - 3 point center rectangle
 - Parallelogram (hình bình hành)
+
+## CIRCLE 
+tương tự cách tạo rectangle
