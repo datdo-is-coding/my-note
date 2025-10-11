@@ -19,7 +19,7 @@ E.g City-wide Networks
 
 
 ### WAN (Wide Area Network)
-- Covers large distances (>5km), linking multiple LAANS
+- Covers large distances (>5km), linking multiple LANS
 - Low speed, high cost
 E.g: Internet, global banking system
 
