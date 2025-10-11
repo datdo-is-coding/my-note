@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS 2/tutorials/Understanding Services.md",
+                "file": "ROS 2/tutorials/Understanding Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Services"
+              "title": "Understanding Action"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "be5199bdc09a2f48",
@@ -172,11 +171,16 @@
   },
   "active": "175c45cd04555480",
   "lastOpenFiles": [
+    "Pasted image 20251011234858.png",
+    "ROS 2/tutorials/Configuring environment.md",
+    "ROS 2/concepts/Node.md",
+    "ROS 2/tutorials/Understanding Action.md",
+    "ROS 2/tutorials/Understanding Parameters.md",
+    "ROS 2/tutorials/Understanding Services.md",
     "Computer Networking/TYPE OF COMPUTER NETWORKS.md",
     "Computer Networking/BASICS OF COMPUTER NETWORKING.md",
     "Computer Networking/Network Devices.md",
     "Mechanical/Solidworks/LESSON 02 - SKETCH & EXTRUDED.md",
-    "ROS 2/tutorials/Understanding Services.md",
     "ROS 2/tutorials/Understanding Topics.md",
     "Untitled",
     "ROS 2/tutorials/Understanding Nodes.md",
@@ -184,7 +188,6 @@
     "Pasted image 20251009010949.png",
     "Pasted image 20251008104244.png",
     "Pasted image 20251008104139.png",
-    "ROS 2/tutorials/Configuring environment.md",
     "ROS 2/tutorials/Using turtlesim,ros2, and rqt.md",
     "Programming Language/C++/HOW TO USE GDB.md",
     "Programming Language/C++/MEMORY MANAGEMENT.md",
@@ -202,7 +205,6 @@
     "Mechanical/Solidworks/LESSON 01 -INTRODUCE.md",
     "pictures/Pasted image 20251005073440.png",
     "ROS 2/A set of ROS 2 command.md",
-    "ROS 2/concepts/Node.md",
     "pictures/Pasted image 20251005105728.png",
     "pictures/Pasted image 20251004164756.png",
     "pictures",
