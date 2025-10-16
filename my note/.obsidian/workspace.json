@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS 2/tutorials/Understanding Action.md",
+                "file": "ROS 2/tutorials/Configure service introspection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Action"
+              "title": "Configure service introspection"
             }
           }
         ]
@@ -171,11 +171,19 @@
   },
   "active": "175c45cd04555480",
   "lastOpenFiles": [
+    "Pasted image 20251016100228.png",
+    "ROS 2/tutorials/Recording and playing back data..md",
+    "ROS 2/tutorials/Configure service introspection.md",
+    "ROS 2/tutorials/Launching Nodes.md",
+    "ROS 2/tutorials/USING rqt_console to view logs.md",
+    "Pasted image 20251015122002.png",
+    "ROS 2/tutorials/Understanding Action.md",
+    "ROS 2/tutorials/Understanding Parameters.md",
+    "Programming Language/C++/MEMORY MANAGEMENT.md",
+    "Programming Language/C++/HOW TO USE GDB.md",
     "Pasted image 20251011234858.png",
     "ROS 2/tutorials/Configuring environment.md",
     "ROS 2/concepts/Node.md",
-    "ROS 2/tutorials/Understanding Action.md",
-    "ROS 2/tutorials/Understanding Parameters.md",
     "ROS 2/tutorials/Understanding Services.md",
     "Computer Networking/TYPE OF COMPUTER NETWORKS.md",
     "Computer Networking/BASICS OF COMPUTER NETWORKING.md",
@@ -189,8 +197,6 @@
     "Pasted image 20251008104244.png",
     "Pasted image 20251008104139.png",
     "ROS 2/tutorials/Using turtlesim,ros2, and rqt.md",
-    "Programming Language/C++/HOW TO USE GDB.md",
-    "Programming Language/C++/MEMORY MANAGEMENT.md",
     "Mechanical/Solidworks/shortcuts.md",
     "Untitled.canvas",
     "Programming Language/C++/COMPOUND DATA TYPES.md",
@@ -208,10 +214,6 @@
     "pictures/Pasted image 20251005105728.png",
     "pictures/Pasted image 20251004164756.png",
     "pictures",
-    "Welcome.md",
-    "Untitled.md",
-    "github/git command.md",
-    "github/git.md",
     "ROS 2/concepts",
     "ROS 2/tutorials",
     "ROS 2",
