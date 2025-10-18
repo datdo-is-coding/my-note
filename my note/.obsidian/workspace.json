@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/introduction.md",
+                "file": "ROS 2/client libraries/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introduction"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,24 +171,28 @@
   },
   "active": "175c45cd04555480",
   "lastOpenFiles": [
-    "Pasted image 20251017215010.png",
-    "Pasted image 20251017214909.png",
-    "Algorithm/QUY HOẠCH ĐỘNG.md",
+    "ROS 2/client libraries/Using colcon to build packages.md",
+    "ROS 2/client libraries/Untitled.md",
+    "pictures/Pasted image 20251008104139.png",
+    "ROS 2/client libraries",
     "STM32/introduction.md",
+    "pictures/Pasted image 20251017215010.png",
+    "pictures/Pasted image 20251017214909.png",
+    "Algorithm/QUY HOẠCH ĐỘNG.md",
     "STM32",
     "Algorithm/Thuật toán sàng số Eratosthenes.md",
     "ROS 2/tutorials/Configure service introspection.md",
     "Algorithm",
-    "Pasted image 20251016100228.png",
+    "pictures/Pasted image 20251016100228.png",
     "ROS 2/tutorials/Recording and playing back data..md",
     "ROS 2/tutorials/Launching Nodes.md",
     "ROS 2/tutorials/USING rqt_console to view logs.md",
-    "Pasted image 20251015122002.png",
+    "pictures/Pasted image 20251015122002.png",
     "ROS 2/tutorials/Understanding Action.md",
     "ROS 2/tutorials/Understanding Parameters.md",
     "Programming Language/C++/MEMORY MANAGEMENT.md",
     "Programming Language/C++/HOW TO USE GDB.md",
-    "Pasted image 20251011234858.png",
+    "pictures/Pasted image 20251011234858.png",
     "ROS 2/tutorials/Configuring environment.md",
     "ROS 2/concepts/Node.md",
     "ROS 2/tutorials/Understanding Services.md",
@@ -199,24 +203,20 @@
     "ROS 2/tutorials/Understanding Topics.md",
     "ROS 2/tutorials/Understanding Nodes.md",
     "Programming Language/C++/C Preprocessors.md",
-    "Pasted image 20251009010949.png",
-    "Pasted image 20251008104244.png",
-    "Pasted image 20251008104139.png",
+    "pictures/Pasted image 20251009010949.png",
+    "pictures/Pasted image 20251008104244.png",
     "ROS 2/tutorials/Using turtlesim,ros2, and rqt.md",
     "Mechanical/Solidworks/shortcuts.md",
     "Untitled.canvas",
     "Programming Language/C++/COMPOUND DATA TYPES.md",
     "pictures/Pasted image 20251007162337.png",
-    "SQL/introduce.md",
     "Programming Language/Python",
     "Programming Language/C++",
     "Programming Language",
     "SQL",
     "leetcode",
     "pictures/Pasted image 20251005073440.png",
-    "pictures/Pasted image 20251005105728.png",
     "pictures",
-    "ROS 2/concepts",
-    "ROS 2/tutorials"
+    "ROS 2/concepts"
   ]
 }
