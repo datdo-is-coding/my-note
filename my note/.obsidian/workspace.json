@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c0d769e398c540",
+        "id": "96aaebe8b29fd3cb",
         "type": "tabs",
         "children": [
           {
-            "id": "175c45cd04555480",
+            "id": "354ce64a580e1659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/Interrupt.md",
+                "file": "Programming Language/C++/Lambda expression in C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interrupt"
+              "title": "Lambda expression in C++"
             }
           }
         ]
@@ -169,8 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "175c45cd04555480",
+  "active": "354ce64a580e1659",
   "lastOpenFiles": [
+    "Programming Language/C++/Lambda expression in C++.md",
+    "ROS 2/client libraries/Writing a simple publisher and subcriber (C++).md",
+    "ROS 2/client libraries/Creating a package.md",
+    "ROS 2/client libraries/Creating a workspace.md",
+    "ROS 2/concepts/Node.md",
+    "ROS 2/A set of ROS 2 command.md",
     "Pasted image 20251019153324.png",
     "Pasted image 20251019151946.png",
     "Pasted image 20251019151928.png",
@@ -188,13 +194,10 @@
     "pictures/Pasted image 20251019112320.png",
     "pictures/Pasted image 20251019112134.png",
     "STM32/introduction.md",
-    "pictures/Pasted image 20251019105527.png",
     "STM32/Tổng quan về vi điều khiển.md",
     "CMake/CMakeLists.txt.md",
     "CMake/Understanding Basics.md",
-    "ROS 2/client libraries/Creating a package.md",
     "CMake",
-    "ROS 2/client libraries/Creating a workspace.md",
     "ROS 2/client libraries/Using colcon to build packages.md",
     "ROS 2/client libraries",
     "Algorithm/QUY HOẠCH ĐỘNG.md",
@@ -208,9 +211,6 @@
     "ROS 2/tutorials/Understanding Action.md",
     "ROS 2/tutorials/Understanding Parameters.md",
     "Programming Language/C++/MEMORY MANAGEMENT.md",
-    "Programming Language/C++/HOW TO USE GDB.md",
-    "ROS 2/tutorials/Configuring environment.md",
-    "ROS 2/concepts/Node.md",
     "Untitled.canvas",
     "Programming Language/Python",
     "Programming Language/C++",

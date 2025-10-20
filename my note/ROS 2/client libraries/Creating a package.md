@@ -8,21 +8,14 @@ Package creation in ROS 2 uses **ament** as its build system and **colcon** as i
 ### 2 What makes up a ROS 2 package?
 **ROS 2 CMake** minimum required content:
 - `CMakeLists.txt` file that describes how to build the code within the package
-    
 - `include/<package_name>` directory containing the public headers for the package
-    
 - `package.xml` file containing meta information about the package
-    
 - `src` directory containing the source code for the package
 **ROS 2 Python** minimum required content
 - `package.xml` file containing meta information about the package
-    
 - `resource/<package_name>` marker file for the package
-    
 - `setup.cfg` is required when a package has executables, so `ros2 run` can find them
-    
 - `setup.py` containing instructions for how to install the package
-    
 - `<package_name>` - a directory with the same name as your package, used by ROS 2 tools to find your package, contains `__init__.py`
 
 ### 3 Packages in a workspace
